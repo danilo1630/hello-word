@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-10T12:18:37.730Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="bDrxBvN7490cmL0sbevq" version="14.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-10T12:25:09.139Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="jPDKSFsbLrOuzQGwvwfv" version="14.5.8" type="github">
   <diagram id="Foob0E_ihhGiF6JsaIy4" name="Page-1">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -14,7 +14,43 @@
           <mxGeometry x="150" y="780" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aNlycnt6xucka32Ohv_I-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="240" width="360" height="640" as="geometry" />
+          <mxGeometry x="240" y="240" width="360" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="aNlycnt6xucka32Ohv_I-9" value="&lt;span style=&quot;font-size: 11.0pt ; line-height: 115% ; font-family: &amp;#34;calibri&amp;#34; , &amp;#34;sans-serif&amp;#34;&quot;&gt;Consultar&lt;br/&gt;todas las materias de una carrera&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br/&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="334" y="320" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aNlycnt6xucka32Ohv_I-10" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="270" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aNlycnt6xucka32Ohv_I-11" value="&lt;span style=&quot;font-size: 11.0pt ; line-height: 115% ; font-family: &amp;#34;calibri&amp;#34; , &amp;#34;sans-serif&amp;#34;&quot;&gt;Ingresar&lt;br/&gt;una materia a una carrera&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="344" y="420" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aNlycnt6xucka32Ohv_I-12" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="310" y="390" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aNlycnt6xucka32Ohv_I-13" value="&lt;span style=&quot;color: rgb(32 , 33 , 36) ; font-family: &amp;#34;roboto&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 13px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;Consultar materias en la cuales está inscripto un alumno&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="339" y="530" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aNlycnt6xucka32Ohv_I-14" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="495" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="aNlycnt6xucka32Ohv_I-15" value="&lt;span style=&quot;color: rgb(32 , 33 , 36) ; font-family: &amp;#34;roboto&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 13px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;Obtener las Carreras que contengan una materia especifica&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="335" y="620" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aNlycnt6xucka32Ohv_I-16" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="327" y="600" width="186" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="aNlycnt6xucka32Ohv_I-17" value="&lt;span style=&quot;color: rgb(32 , 33 , 36) ; font-family: &amp;#34;roboto&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 13px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;Obtener los contenidos de una materia&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="334" y="730" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aNlycnt6xucka32Ohv_I-18" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="710" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="aNlycnt6xucka32Ohv_I-19" value="&lt;span style=&quot;color: rgb(32 , 33 , 36) ; font-family: &amp;#34;roboto&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 13px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;Obtener libros por etiqueta&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="372.5" y="860" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aNlycnt6xucka32Ohv_I-20" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="840" width="205" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
